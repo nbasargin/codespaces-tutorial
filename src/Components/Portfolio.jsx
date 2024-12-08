@@ -8,7 +8,22 @@ import React from "react";
  */
 const projectList = [
   {
-    title: "Item title",
+    title: "Item title 1",
+    description: "Some things to explain here",
+    url: "https://www.google.com/",
+  },
+  {
+    title: "Item title 2",
+    description: "Some things to explain here",
+    url: "https://www.google.com/",
+  },
+  {
+    title: "Item title 3",
+    description: "Some things to explain here",
+    url: "https://www.google.com/",
+  },
+  {
+    title: "Item title 4",
     description: "Some things to explain here",
     url: "https://www.google.com/",
   },
