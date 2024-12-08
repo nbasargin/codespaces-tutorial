@@ -1,12 +1,8 @@
-/**
-* CSS file to hold styles that apply across the application
-*/
-
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 html,
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lato", sans-serif;
   height: 100%;
   margin: 0;
   overflow-x: hidden;
@@ -46,9 +42,9 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Lato", serif;
   font-size: 7rem;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 0.8;
   margin: 0;
 }
